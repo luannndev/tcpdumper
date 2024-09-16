@@ -21,4 +21,8 @@ public class TCPDumper {
     private void startProcess() {
 
     }
+
+    public Config getConfig() {
+        return config;
+    }
 }
