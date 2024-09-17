@@ -38,7 +38,7 @@ public class WebhookManager {
                             "      ],\n" +
                             "      \"author\": {\n" +
                             "        \"name\": \"TCP Dump Notify\",\n" +
-                            "        \"url\": \"https://github.com/AzraAnimating/TCPDumper\"\n" +
+                            "        \"url\": \"https://github.com/luannndev/tcpdumper\"\n" +
                             "      }\n" +
                             "    }\n" +
                             "  ]\n" +
@@ -68,7 +68,7 @@ public class WebhookManager {
                         "      ],\n" +
                         "      \"author\": {\n" +
                         "        \"name\": \"TCP Dump Notify\",\n" +
-                        "        \"url\": \"https://github.com/luannndev/TCPDumper\"\n" +
+                        "        \"url\": \"https://github.com/luannndev/tcpdumper\"\n" +
                         "      }\n" +
                         "    }\n" +
                         "  ]\n" +
